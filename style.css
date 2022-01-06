@@ -10,7 +10,6 @@ color: #283550;
 h2{
         font-family: 'Poppins', sans-serif;
         font-size: 38px;
-        text-align: center;
 }
 h3{
     font-family: 'Poppins', sans-serif;
@@ -25,6 +24,9 @@ border-bottom: 0ch;
 border-right: 0ch;
 border-style: solid;
 color: #283550;
+}
+#header2{
+        text-align: center;
 }
 
 
