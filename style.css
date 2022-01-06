@@ -70,11 +70,16 @@ p{
 .white-color{
     color: #ffffff; 
  }
+ .white-shade{
+color: #D9DBE1;
+ }
 .flex{
    display: flex;
    margin-bottom: 60px;
-
 }
+.flex2{
+    display: flex;
+ }
 
 .half-width{
     width: 80%;
@@ -109,6 +114,19 @@ p{
 .contact-area{
     background-color: #00A78E;
     padding-top: 50px;
+}
+.footer{
+    background-color: #181818;
+    padding-top: 39px;
+    padding-bottom: 42px;
+}
+.footer-text{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    text-align: center;
+}
+.footer-para{
+    text-align: center;
 }
 
 
